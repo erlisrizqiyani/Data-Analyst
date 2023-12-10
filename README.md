@@ -180,5 +180,5 @@ SELECT * FROM rolejob.02_dataset_uncleaned.job;
 
 ## Documentation
 
-[Documentation](Data-Analyst/Data_Science_Job_Report_page-0001.jpg)
+[Documentation](Data_Science_Job_Report_page-0001.jpg)
 

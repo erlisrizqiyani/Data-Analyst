@@ -9,7 +9,7 @@ The objective of this project is to analyze Macbook sales data from Tokopedia us
 * The number of Macbooks sold in each region
 * The top 5 stores selling Macbooks in each region
 
-**Project Scope:**
+## **Project Scope:**
 
 The project will collect data from the Tokopedia website using the Beautiful Soup and Selenium libraries in Python. The data will then be cleaned and analyzed using Python in a Jupyter notebook. The analysis will produce a dashboard that visualizes the insights from the data.
 

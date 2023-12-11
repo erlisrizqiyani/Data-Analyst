@@ -12,20 +12,20 @@ This project aims to analyze Macbook sales data from the Tokopedia website to ga
 ## **Project Scope**
 
 1. Data Collection:
-* Use Beautiful Soup library to parse HTML data from Tokopedia Macbook listings.
-* Utilize Selenium library to automate scrolling and data retrieval across multiple pages.
-* Extract data for each Macbook listing, including product name, price, seller, and region.
+   * Use Beautiful Soup library to parse HTML data from Tokopedia Macbook listings.
+   * Utilize Selenium library to automate scrolling and data retrieval across multiple pages.
+   * Extract data for each Macbook listing, including product name, price, seller, and region.
 2. Data Cleaning and Analysis:
-* Clean and validate collected data to ensure accuracy and consistency.
-* Convert data to a suitable format for analysis.
-* Calculate the number of Macbooks sold in each region.
-* Identify the top 5 stores selling Macbooks in each region.
+   * Clean and validate collected data to ensure accuracy and consistency.
+   * Convert data to a suitable format for analysis.
+   * Calculate the number of Macbooks sold in each region.
+   * Identify the top 5 stores selling Macbooks in each region.
 3. Visualization and Reporting:
-* Create a dashboard using Python libraries like Matplotlib and Plotly to visualize the analysis results.
-* Include charts and graphs to represent:
-* Number of Macbook sales in each region.
-* Top 5 stores selling Macbooks in each region.
-* Host the dashboard on a web server for easy access and sharing.
+   * Create a dashboard using Python libraries like Matplotlib and Plotly to visualize the analysis results.
+   * Include charts and graphs to represent:
+   * Number of Macbook sales in each region.
+   * Top 5 stores selling Macbooks in each region.
+   * Host the dashboard on a web server for easy access and sharing.
 
 ## **Project Schedule**
 
@@ -60,11 +60,11 @@ The following mitigation strategies have been developed to address the identifie
 * The data will be cleaned and validated to ensure accuracy.
 * The analysis will be peer-reviewed to ensure accuracy and relevance.
 
-# **Conclusion:**
+# **Conclusion**
 
 This project has the potential to provide valuable insights into Macbook sales in Indonesia. The dashboard will be a useful tool for businesses and consumers alike. The project team is confident that the project will be successful.
 
-# **Specific Data Collection Requirements:**
+# **Specific Data Collection Requirements**
 
 The data will be collected from the Tokopedia website using the following steps:
 
@@ -76,7 +76,7 @@ The data will be collected from the Tokopedia website using the following steps:
     * Seller
     * Region
 
-# **Specific Data Cleaning and Analysis Requirements:**
+# **Specific Data Cleaning and Analysis Requirements**
 
 The data will be cleaned and analyzed using the following steps:
 
@@ -86,7 +86,7 @@ The data will be cleaned and analyzed using the following steps:
     * The number of Macbooks sold in each region will be calculated.
     * The top 5 stores selling Macbooks in each region will be identified.
 
-# **Specific Dashboard Requirements:**
+# **Specific Dashboard Requirements**
 
 The dashboard will be created using the following tools:
 

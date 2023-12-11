@@ -1,4 +1,4 @@
-**Project Description**
+# **Project Description**
 
 **Project Title:** Macbook Sales Data Analysis
 
